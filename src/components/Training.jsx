@@ -4,7 +4,7 @@ function Training({Img}) {
     return (
         <>
                 <div>
-                    <img src={Img} alt="st" />
+                    <img className='w-[100%]' src={Img} alt="st" />
                 </div>
         </>
     )
